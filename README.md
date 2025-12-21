@@ -2,9 +2,9 @@
 
 ## I'm a Full Stack Developer specializing in the PYTHON Stack
 
-- 👨‍💻 I'm currently working in Truckrr Info
+- 👨‍💻 I'm currently a Fresher For Python Fullstack
 - 🌱 I’m learning open source
-- 💼 I'm working with MERN stack
+- 💼 I'm working with PYTHON Stack
 - 🎓 I'm studying BCA - PABCAS
 - 📧 Contact me: lovelybalaji38@gmail.com
 
@@ -12,7 +12,7 @@
 ## 🌐 Social Platforms
 
 <p align="left">
-  <a href="https://www.instagram.com/YOUR_ID" target="_blank">
+  <a href="https://www.instagram.com/_bala_kutty_?igsh=MTUybTlvMTI0dmw4cQ==" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
 </a>
   
@@ -20,7 +20,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_ID" target="_blank">
+  <a href="https://www.linkedin.com/in/gokula-balaji-5253492a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 
