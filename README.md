@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm currently a Fresher For Python Fullstack
 - 🌱 I’m learning open source
-- 💼 I'm working with PYTHON Stack
+- 💼 I'm Intrested on working with PYTHON Stack
 - 🎓 I'm studying BCA - PABCAS
 - 📧 Contact me: lovelybalaji38@gmail.com
 - 🌠 Portfolio: https://lovelybalaji38-dev.github.io/portfolio/    
